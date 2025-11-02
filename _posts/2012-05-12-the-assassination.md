@@ -1,7 +1,7 @@
 ---
 title: The Assassination
 date: 2012-05-12 09:22:00 +0530
-catagories: ['personal','writings']
+categories: ['personal','writings']
 tags: ['cold']
 ---
 

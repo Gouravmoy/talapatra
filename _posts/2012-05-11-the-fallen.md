@@ -1,7 +1,7 @@
 ---
 title: The Fallen
 date: 2012-05-11 09:08:00 +0530
-catagories: ['personal','writings']
+categories: ['personal','writings']
 tags: ['cold']
 ---
 
