@@ -1,9 +1,11 @@
 ---
 title: The Mullah in Ripped Jeans
 date: 2012-05-25 13:02:00 +0530
-categories: ['personal','writings']
-tags: ['hot']
+categories: ['short-stories']
+tags: ['college', 'identity', 'coming-of-age', 'love']
 ---
+
+![](/assets/img/posts/tmirj.jpg){: .normal }{: .shadow }
 
 He was not a guy that anyone can easily forget. He was handsome; dashing as the ladies say. Perfect body. You know the ones you see in biology books that show the human anatomy. Always smiling. And the smile that bastard had. Charmed every girl that crossed his path. So basically speaking the type of guys you see in commercials. Oh sorry... his name was Omar, Omar Sayir. He was my batch mate... how I envied him
                 

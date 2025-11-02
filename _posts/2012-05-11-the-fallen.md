@@ -1,9 +1,11 @@
 ---
 title: The Fallen
 date: 2012-05-11 09:08:00 +0530
-categories: ['personal','writings']
-tags: ['cold']
+categories: ['short-stories']
+tags: ['friendship', 'coming-of-age', 'college']
 ---
+
+![](/assets/img/posts/guitar.png){: width="150" }{: .normal }
 
 Well I know what you are thinking. Is this about that stupid transformer movie or something? No. It isn't.
             
