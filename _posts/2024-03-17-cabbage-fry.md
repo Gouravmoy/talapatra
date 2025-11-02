@@ -5,7 +5,7 @@ categories: ['others','cooking']
 tags: ['recipe']
 ---
 
-![](/eleanor/assets/images/posts/cabbage.jpeg){: .shadow }
+![](/assets/img/posts/cabbage.jpeg){: .shadow }
 
 # Introduction
 
