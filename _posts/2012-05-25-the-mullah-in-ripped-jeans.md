@@ -5,8 +5,6 @@ categories: [personal,writings]
 tags:[hot]
 ---
 
-![](/eleanor/assets/images/posts/tmirj.jpg)
-
 He was not a guy that anyone can easily forget. He was handsome; dashing as the ladies say. Perfect body. You know the ones you see in biology books that show the human anatomy. Always smiling. And the smile that bastard had. Charmed every girl that crossed his path. So basically speaking the type of guys you see in commercials. Oh sorry... his name was Omar, Omar Sayir. He was my batch mate... how I envied him
                 
 Don’t be judgmental about me. Every guy hated him. Believe me... all girls fell for him, all of them; yeah he was that good looking. Reading in a government engineering college where there is always a scarcity of good (read hot) looking girls and full of girls with hair gone astray and wearing specks like binoculars, he always got the creamy layer. All the girls talked about was how handsome he was, how charming he is and other bullshit. Pardon my language... just thinking about those days gives me the willies...
