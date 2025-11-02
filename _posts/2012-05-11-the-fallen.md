@@ -1,13 +1,9 @@
 ---
-layout: post
 title:  "The Fallen"
 date:   2012-05-11 09:08:00 +0530
-categories: writings
-author: gouravmoy
-published: true
+categories: [personal, writings]
+tags: [cold]
 ---
-
-![](/eleanor/assets/images/posts/guitar.png){: width="150"}{:style="display:block; margin-left:auto; margin-right:auto"}
 
 Well I know what you are thinking. Is this about that stupid transformer movie or something? No. It isn't.
             
