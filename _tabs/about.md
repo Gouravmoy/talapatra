@@ -16,7 +16,7 @@ I thought this would be a good name of my blog as I intend to have this as an re
 
 ![](/assets/img/profile.jpg){: width="400" }{: .normal}{: .shadow }
 
-Hi there, I am Gouravmoy Mohanty, an IT professional based in the Netherlands.I love spending time working on working on work projects (I know, kind of borning but I like it), watching TV shows & movies, reading, and listening to audiobooks- a lot of it actually 😄. 
+Hi there, I am Gouravmoy Mohanty, an IT professional based in the Netherlands.I love spending time working on office projects (I know, kind of borning but I like it), watching TV shows & movies, reading, and listening to audiobooks. The last one quite a lot of it actually 😄. 
 
 I started my career working for a QA team. As I was the only one who had the knowledge of how to code, I was given over the responsibility to manage the automation tool for the project. It was fun working on a small independent project and improving an existing product.After that I worked on creating an RCP (Rich Client Platform) based desktop application that will help QA team compare huge source and target datasets of any types (CSV, XML, database rows, etc.) and give them a report of the differences.
 
