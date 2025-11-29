@@ -12,3 +12,7 @@ A minimal Jekyll blog powered by the [Chirpy theme](https://github.com/cotes2020
 2. Run locally: `bundle exec jekyll serve`
 3. Add posts in `_posts/` and pages in `_tabs/`
 
+## Pushing from local
+`eval `ssh-agent -s``
+`ssh-add ~/.ssh/id_ed25519_***`
+
