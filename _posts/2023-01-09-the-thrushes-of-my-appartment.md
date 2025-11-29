@@ -3,7 +3,6 @@ title: The Thrushes of my apartment
 date: 2023-01-09 23:55:00 +0530
 categories: ['musings']
 tags: ['nature', 'Hyderabad']
-pin: true
 ---
 
 ![Thrush image](https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHgxNjMxMDQ5LWltYWdlLWt3eXBtY3pkLmpwZw.jpg){: .shadow }
