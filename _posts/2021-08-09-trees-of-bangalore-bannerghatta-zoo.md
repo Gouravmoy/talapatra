@@ -1,7 +1,7 @@
 ---
 title: The Trees of Bangalore Bannerghatta Zoo
 date:   2021-08-09 20:42:00 +0530
-categories: ['others','photography']
+categories: ['others']
 tags: ['Bangalore', 'Bannerghatta Zoo', 'nature']
 ---
 

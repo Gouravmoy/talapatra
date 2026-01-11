@@ -1,7 +1,7 @@
 ---
 title: Customize Hikari connection pooling for SpringBoot application
 date:   2021-06-28 18:41:33 +0530
-categories: ['product','coding']
+categories: ['product','tech']
 tags: ['spring-boot', 'connection-pooling', 'java']
 ---
 

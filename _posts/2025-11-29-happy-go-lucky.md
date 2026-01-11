@@ -1,7 +1,7 @@
 ---
 title: Happy Go Lucky
 date: 2025-11-29 07:50:00 +0100
-categories: ['movies']
+categories: ['others']
 tags: ['movies', 'romantic comedy', 'Sally Hawkins', '2000s', 'mental health']
 ---
 
