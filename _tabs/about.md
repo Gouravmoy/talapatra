@@ -77,6 +77,10 @@ In my college days I had written a few short stories. Even though I dont write m
 
 The views and opinions expressed in this blog are my own and do not represent the views of my organization or anyone else.
 
+# Contact
+
+You can contact me [here](../contact).
+
 # License
 
 The posts in this blog are licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1). © Gouravmoy Mohanty 
