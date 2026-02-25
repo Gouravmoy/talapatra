@@ -1,16 +1,22 @@
-# Chirpy Starter
+# Talapatra Blog
 
-A minimal Jekyll blog powered by the [Chirpy theme](https://github.com/cotes2020/jekyll-theme-chirpy/).
+> A personal blog for thoughts, stories, and knowledge sharing.
 
-## Features
-- Simple structure for posts, pages, and tabs
-- Live reload server and production build scripts
-- MIT licensed
+## About
 
-## Getting Started
-1. Install dependencies: `bundle install`
-2. Run locally: `bundle exec jekyll serve`
-3. Add posts in `_posts/` and pages in `_tabs/`
+**[Talapatra](https://gouravmoy.github.io/talapatra/)** is a digital notebook inspired by the ancient palm-leaf manuscripts of Odisha, India. This blog is a collection of essays, technical articles, cooking tips, short stories, and personal reflections by Gouravmoy Mohanty.
+
+## Local Development
+
+1. Install dependencies:
+   ```sh
+   bundle install
+   ```
+2. Run the server locally:
+   ```sh
+   bundle exec jekyll serve
+   ```
+3. Visit `http://localhost:4000/talapatra/` in your browser.
 
 ## Pushing from local
 `eval `ssh-agent -s``
