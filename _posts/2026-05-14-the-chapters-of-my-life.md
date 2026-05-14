@@ -82,6 +82,8 @@ I suppose a sense of complacency crept into me. Once you have been in prison for
 
 I never saw the curveball coming.
 
+---
+
 ## Chapter 5 – Navigating from the Back Seat
 
 Her name was Amu. She worked in my office as a bank teller. She was beautiful, a hard worker, and always on good terms with the rest of the office. I interacted with her sometimes during office functions.
