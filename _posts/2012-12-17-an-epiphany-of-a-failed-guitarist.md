@@ -1,5 +1,6 @@
 ---
 title: An Epiphany of a failed Guitarist
+author: gouravmoy
 date:   2012-12-17 21:53:00 +0530
 categories: ['short-stories']
 tags: ['heartbreak', 'pain', 'reflection']

@@ -1,12 +1,13 @@
 ---
 title: Prioritizing Databases by Business Impact
+author: gouravmoy
+image:
+  path: https://live.staticflickr.com/65535/55071599932_4c1b167592_c.jpg
 date: 2026-02-01 17:35:00 +0100
 categories: ['product','tech']
 tags: ['database','categorization','tech']
 math: true
 ---
-
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/97713098@N06/55071599932/in/dateposted-public/" title="Layers"><img src="https://live.staticflickr.com/65535/55071599932_4c1b167592_c.jpg" width="332" height="500" alt="Layers"/></a>
 
 ## Introduction
 

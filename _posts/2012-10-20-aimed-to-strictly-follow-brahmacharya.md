@@ -1,11 +1,12 @@
 ---
 title: Aimed To Strictly Follow Brahmacharya
+author: gouravmoy
+image:
+  path: /assets/img/posts/meditating.jpg
 date:   2012-10-20 02:22:00 +0530
 categories: ['short-stories']
 tags: ['reflection', 'student-life']
 ---
-
-![](/assets/img/posts/meditating.jpg){: .normal }{: .shadow }
 
 > A leaf from the dairy of an College student
 

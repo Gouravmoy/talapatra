@@ -1,5 +1,6 @@
 ---
 title: Startup Wisdom
+author: gouravmoy
 date: 2024-04-20 12:17:00 +0200
 categories: ['others']
 tags: ['startup', 'entrepreneurship']

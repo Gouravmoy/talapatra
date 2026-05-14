@@ -1,11 +1,13 @@
 ---
 title: For the love of the game
+author: gouravmoy
+image:
+  path: https://cdn2.picryl.com/photo/1930/12/31/slnsw-6720-police-cricket-match-at-moore-park-b76527-1024.jpg
+  alt: Police cricket match at Moore Park by State Library of New South Wales/ Public Domain
 date: 2026-02-20 17:56:00 +0530
 categories: ['musings']
 tags: ['cricket','country']
 ---
-
-![Police cricket match at Moore Park](https://cdn2.picryl.com/photo/1930/12/31/slnsw-6720-police-cricket-match-at-moore-park-b76527-1024.jpg "Police cricket match at Moore Park by State Library of New South Wales/ Public Domain")
 
 &emsp;I like the game of cricket. It is a game every Indian gets exposed to since childhood. I was no exception. Watching cricketing greats like Sachin Tendulkar, Sourav Ganguly and Rahul Dravid play was pure delight. I used to be excited about the matches and watched the full game even though it meant an entire day was wasted. Such were the joys of childhood :) 
 

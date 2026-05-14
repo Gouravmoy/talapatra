@@ -1,8 +1,10 @@
 ---
 title: Frying peanuts algorithm
+author: gouravmoy
 date: 2024-03-13 14:51:00 +0100
 categories: ['others','cooking']
 tags: ['recipe']
+published: false
 ---
 
 ![](/assets/img/posts/peanut.jpeg){: .shadow }

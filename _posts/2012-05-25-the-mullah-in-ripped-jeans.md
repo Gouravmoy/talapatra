@@ -1,5 +1,6 @@
 ---
 title: The Mullah in Ripped Jeans
+author: gouravmoy
 date: 2012-05-25 13:02:00 +0530
 categories: ['short-stories']
 tags: ['college', 'identity', 'coming-of-age', 'love']

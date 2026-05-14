@@ -4,19 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-<a title="Prateek Pattanaik, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Palm_leaf_manuscript_of_Draupadi_Lakhabindha_in_Odia.jpg"><img width="512" alt="Palm leaf manuscript of Draupadi Lakhabindha in Odia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Palm_leaf_manuscript_of_Draupadi_Lakhabindha_in_Odia.jpg/512px-Palm_leaf_manuscript_of_Draupadi_Lakhabindha_in_Odia.jpg?20170607175752"></a>
-
-# Talapatra
-
-Talapatra is an ancient way to writing in which words and drawings are scribe upon dried leaves of the Palm tree in the region of India I am from - Odisha. Before paper was common, people use to write and draw in talapatra. It was a way in which birth, death, star charts are recorded in olden times. It was also here that most sacred text like Ramayana and Mahabharata were written. 
-
-I thought this would be a good name of my blog as I intend to have this as an recording of some of my thoughts and ideas which I feel the need or urge to record. I hope this will serve as a repository for all the knowledge I have and will be accumulating in my life. I am hoping to create posts about the topics I like like software engineering, books, photography, philosophy, short stories and life in general, something I can look back upon in the future.
-
-# Gouravmoy Mohanty
-
 ![](/assets/img/profile.jpg){: width="400" }{: .normal}{: .shadow }
 
-Hi there, I am Gouravmoy Mohanty, an IT professional based in the Netherlands.I love spending time working on office projects (I know, kind of borning but I like it), watching TV shows & movies, reading, and listening to audiobooks. The last one quite a lot of it actually 😄. 
+Hi there, I am Gouravmoy Mohanty, an IT professional based in the Netherlands. I love spending time working on office projects (I know, kind of borning but I like it), watching TV shows & movies, reading, and listening to audiobooks. The last one quite a lot of it actually 😄. 
 
 I started my career working for a QA team. As I was the only one who had the knowledge of how to code, I was given over the responsibility to manage the automation tool for the project. It was fun working on a small independent project and improving an existing product.After that I worked on creating an RCP (Rich Client Platform) based desktop application that will help QA team compare huge source and target datasets of any types (CSV, XML, database rows, etc.) and give them a report of the differences.
 
@@ -44,6 +34,7 @@ Besides software engineering and product management, I am an avid reader and an 
 - [Bobiverse Series](https://www.goodreads.com/series/192752-bobiverse)
 - [Children of Time](https://en.wikipedia.org/wiki/Children_of_Time_(novel))
 - [Cormoran Strike Series](https://en.wikipedia.org/wiki/Cormoran_Strike)
+- [First Law Trilogy](https://en.wikipedia.org/wiki/The_First_Law)
 
 ## Non Fiction
 
@@ -58,9 +49,10 @@ Besides software engineering and product management, I am an avid reader and an 
 - [J. R. R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien)
 - [Stieg Larsson](https://en.wikipedia.org/wiki/Stieg_Larsson)
 - [Dennis E. Taylor](https://en.wikipedia.org/wiki/Dennis_E._Taylor)
+- [Adrian Tchaikovsky](https://en.wikipedia.org/wiki/Adrian_Tchaikovsky)
 - [Gurcharan Das](https://en.wikipedia.org/wiki/Gurcharan_Das)
 - [Yuval Noah Harari](https://en.wikipedia.org/wiki/Yuval_Noah_Harari)
-- [Adrian Tchaikovsky](https://en.wikipedia.org/wiki/Adrian_Tchaikovsky)
+
 
 # Photography
 
@@ -72,6 +64,15 @@ I have dabbled on and off with Photography for the past few years. I mostly clic
 # Short stories
 
 In my college days I had written a few short stories. Even though I dont write much anymore I like to keep the collection so as to remind myself of the carefree days of creativity.They can also be found in this blog [here](/talapatra/categories/short-stories/)
+
+
+# Talapatra
+
+<a title="Prateek Pattanaik, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Palm_leaf_manuscript_of_Draupadi_Lakhabindha_in_Odia.jpg"><img width="512" alt="Palm leaf manuscript of Draupadi Lakhabindha in Odia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Palm_leaf_manuscript_of_Draupadi_Lakhabindha_in_Odia.jpg/512px-Palm_leaf_manuscript_of_Draupadi_Lakhabindha_in_Odia.jpg?20170607175752"></a>
+
+Talapatra is an ancient way to writing in which words and drawings are scribe upon dried leaves of the Palm tree in the region of India I am from - Odisha. Before paper was common, people use to write and draw in talapatra. It was a way in which birth, death, star charts are recorded in olden times. It was also here that most sacred text like Ramayana and Mahabharata were written. 
+
+I thought this would be a good name of my blog as I intend to have this as an recording of some of my thoughts and ideas which I feel the need or urge to record. I hope this will serve as a repository for all the knowledge I have and will be accumulating in my life. I am hoping to create posts about the topics I like like software engineering, books, photography, philosophy, short stories and life in general, something I can look back upon in the future.
 
 # Disclaimer
 

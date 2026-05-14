@@ -1,11 +1,12 @@
 ---
 title: Missed the heart by 2 inches
+author: gouravmoy
+image:
+  path: https://live.staticflickr.com/3833/11450709335_7f9fa16f33_c.jpg
 date:   2013-03-08 09:18:00 +0530
 categories: ['short-stories']
 tags: ['love', 'college', 'relationships']
 ---
-
-![](/assets/img/posts/mahanadi.png){: .normal }{: .shadow }
 
 Its 12th of November…a pleasant evening.. Birds chirping in their nests.. An unusual hot loo sets in... Everything looks perfect.. Except of course the dead body.. Too much blood for any passersby comfort you know.. The body lies on the pavement beside river Mahanadi. It’s a sorry sorry sight... The white salwar was scarlet with blood..
 

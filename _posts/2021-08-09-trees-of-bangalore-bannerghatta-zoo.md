@@ -1,5 +1,6 @@
 ---
 title: The Trees of Bangalore Bannerghatta Zoo
+author: gouravmoy
 date:   2021-08-09 20:42:00 +0530
 categories: ['others']
 tags: ['Bangalore', 'Bannerghatta Zoo', 'nature']

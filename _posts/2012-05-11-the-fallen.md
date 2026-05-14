@@ -1,11 +1,12 @@
 ---
 title: The Fallen
+author: gouravmoy
 date: 2012-05-11 09:08:00 +0530
+image:
+  path: https://live.staticflickr.com/3743/9076851403_0abb9862fe_c.jpg
 categories: ['short-stories']
 tags: ['friendship', 'coming-of-age', 'college']
 ---
-
-![](/assets/img/posts/guitar.png){: width="150" }{: .normal }
 
 Well I know what you are thinking. Is this about that stupid transformer movie or something? No. It isn't.
             

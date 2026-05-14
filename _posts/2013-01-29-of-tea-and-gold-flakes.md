@@ -1,5 +1,6 @@
 ---
 title: Of Tea and Gold Flakes
+author: gouravmoy
 date: 2013-01-29 10:44:00 +0530
 categories: ['short-stories']
 tags: ['empathy', 'reflection', 'college']

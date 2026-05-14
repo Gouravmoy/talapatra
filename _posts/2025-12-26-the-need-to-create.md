@@ -1,11 +1,12 @@
 ---
 title: The Need to Create
+author: gouravmoy
+image:
+  path: https://live.staticflickr.com/3683/12135930155_563908ac38_c.jpg
 date: 2025-12-26 14:54:00 +0100
 categories: ['musings']
 tags: ['reflection','creation']
 ---
-
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/97713098@N06/12135930155/in/dateposted-public/" title="Colors"><img src="https://live.staticflickr.com/3683/12135930155_563908ac38_c.jpg" width="800" height="532" alt="Colors"/></a>
 
 A few months ago, I had seen a TED talk wherein the speaker had, with almost a sense of urgency, insisted on the need for each of us to "create". And by creating, she meant creation of anything tangible. Let it be a photograph, a written down thought, or a piece of hand-drawn painting. She had asked the audience to imagine that if we died today, what would be our contribution to the society. What have we created and are leaving behind? Definitely not the endless scrolls on social media. Or the copious amount of information we consume every day. The speaker’s main appeal was to create more instead of consuming more.
 

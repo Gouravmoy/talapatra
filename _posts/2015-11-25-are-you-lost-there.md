@@ -1,11 +1,12 @@
 ---
 title: Are you Lost There?
+author: gouravmoy
+image:
+  path: /assets/img/posts/areyoulostthere.jpg
 date:   2015-11-25 12:55:00 +0530
 categories: ['short-stories']
 tags: ['reflection', 'loneliness']
 ---
-
-![](/assets/img/posts/areyoulostthere.jpg){: .normal }{: .shadow }
 
 You look so beautiful when you are lost. You walk on the road, your hands in your pocket. No sight of earphones distracting you, no smartphone making you "smarter" or mercilessly popping up notifications. You look so serene in your solidarity. As you walk by me and I sit by the pavement, I smile. You missed it, of course, because you were lost. As I sit on this mildly wet pavement enjoying my tea, I imagine what your thoughts might be.
 

@@ -1,11 +1,12 @@
 ---
 title: The Thrushes of my apartment
+author: gouravmoy
+image:
+  path: https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHgxNjMxMDQ5LWltYWdlLWt3eXBtY3pkLmpwZw.jpg
 date: 2023-01-09 23:55:00 +0530
 categories: ['musings']
 tags: ['nature', 'Hyderabad']
 ---
-
-![Thrush image](https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHgxNjMxMDQ5LWltYWdlLWt3eXBtY3pkLmpwZw.jpg){: .shadow }
 
 I see a small agile bird flying around the apartment. It looks like a American robin or what is called Thrush in India. Like almost all days in Hyderabad, it has been an overcast and windy August morning. And the thrush seems to be taking full advantage of the wind flying around and gliding almost effortlessly with the wind.
 

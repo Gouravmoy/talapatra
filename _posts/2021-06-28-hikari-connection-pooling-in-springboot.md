@@ -1,5 +1,8 @@
 ---
 title: Customize Hikari connection pooling for SpringBoot application
+author: gouravmoy
+image:
+  path: https://live.staticflickr.com/1456/26128544823_9c3eb42f93_c.jpg
 date:   2021-06-28 18:41:33 +0530
 categories: ['product','tech']
 tags: ['spring-boot', 'connection-pooling', 'java']
@@ -15,7 +18,7 @@ After SpringBoot 2.x being introduced and it providing out of the box support fo
 
 One of the problems faced with this approach is that sometimes SpringBoot does not pick up the properties even when the properties are correctly defined. This maybe due to multiple factors like Hikari version that is imported or simply SpringBoot skipping the properties. When the connection pool misbehaves and does not take up the values proved in the application configuration, it creates a lot of frustration. 
 
-![](/assets/img/posts/GitHub-Mark-32px.png) **Code Example**
+## Code Example
 
 This article is accompanied by a working code example [on GitHub](https://github.com/Gouravmoy/hikariConfig).
 

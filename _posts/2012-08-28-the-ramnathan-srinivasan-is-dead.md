@@ -1,11 +1,12 @@
 ---
 title: Ramnathan Srinivasan is Dead
+author: gouravmoy
+image:
+  path: /assets/img/posts/body.jpg
 date:   2012-08-28 23:56:00 +0530
 categories:  ['short-stories']
 tags: ['tragedy', 'social-issues', 'violence']
 ---
-
-![](/assets/img/posts/body.jpg){: .normal }{: .shadow }
 
 Ramnathan Srinivasan is dead. He was murdered on an afternoon in the pavement of a street in Rajnagar, a small town in outskirts of Jamshedpur, Jharkhand. His body lies in the streets, unclaimed and unwanted. An angry crowd surrounds the body. Blood oozes out of every possible orifice in his body. The body is mangled. Legs and arms rest in obtuse angles with respect to his body. It’s indeed a sorry sight. Only his eyes betray the scene. A look of sheer amazement and sadness masks his lifeless face. My name is Ramnathan Srinivasan and this is the story of how I die....
 

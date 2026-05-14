@@ -1,8 +1,10 @@
 ---
 title: Cabbage stir fry algorithm
+author: gouravmoy
 date:   2024-03-17 00:35:00 +0100
 categories: ['others','cooking']
 tags: ['recipe']
+published: false
 ---
 
 ![](/assets/img/posts/cabbage.jpeg){: .shadow }
