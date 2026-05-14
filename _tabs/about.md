@@ -69,7 +69,7 @@ In my college days I had written a few short stories. Even though I dont write m
 # Talapatra
 
 ![](https://upload.wikimedia.org/wikipedia/commons/9/97/Palm_leaf_manuscript_of_Draupadi_Lakhabindha_in_Odia.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
-_Palm leaf manuscript of Draupadi Lakhabindha in Odia_
+_Palm leaf manuscript of Draupadi Lakhabindha in Odia (<a href="https://commons.wikimedia.org/wiki/File:Palm_leaf_manuscript_of_Draupadi_Lakhabindha_in_Odia.jpg">Prateek Pattanaik</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons)_
 
 Talapatra is an ancient way to writing in which words and drawings are scribe upon dried leaves of the Palm tree in the region of India I am from - Odisha. Before paper was common, people use to write and draw in talapatra. It was a way in which birth, death, star charts are recorded in olden times. It was also here that most sacred text like Ramayana and Mahabharata were written. 
 
